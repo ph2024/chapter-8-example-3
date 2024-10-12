@@ -1,4 +1,4 @@
-#
+# test note
 # Destroys the Node.js microservice on Kubernetes.
 #
 # Environment variables:
